@@ -1,2 +1,2 @@
-# color-project
-color project implemented with HTML,CSS&lt;JS
+# color
+color project implemented with HTML,CSS,JS
